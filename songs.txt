@@ -1,0 +1,2 @@
+Hello buddy 
+1st text file for git
